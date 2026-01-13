@@ -162,4 +162,5 @@ This project is open source and available for personal and educational use.
 
 ---
 
-**Enjoy using JULIUS! Have a blessed day! 🎉**
+***Enjoy using JULIUS!***
+
