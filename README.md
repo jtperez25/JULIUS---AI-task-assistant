@@ -1,4 +1,4 @@
-# Meet ***JULIUS***, your personal AI task assistant!
+# Meet ***JULIUS***, your personal task assistant!
 
 JULIUS is your personal task and event assistant that helps you manage your weekly schedule. This project includes both a command-line interface and a web-based interface with a Flask backend.
 
@@ -163,5 +163,6 @@ This project is open source and available for personal and educational use.
 ---
 
 ***Enjoy using JULIUS!***
+
 
 
