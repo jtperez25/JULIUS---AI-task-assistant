@@ -41,7 +41,7 @@ Follow these steps to run JULIUS locally on your computer:
 
 Alternatively, if you have Git installed:
 ```bash
-git clone https://github.com/YOUR-USERNAME/julius-task-tracker.git
+git clone https://github.com/jtperez25/julius-task-tracker.git
 cd julius-task-tracker
 ```
 
@@ -163,4 +163,5 @@ This project is open source and available for personal and educational use.
 ---
 
 ***Enjoy using JULIUS!***
+
 
